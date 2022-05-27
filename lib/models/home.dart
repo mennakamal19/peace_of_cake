@@ -9,7 +9,9 @@ import 'package:peace_of_cake/modules/drawer/my_profile/my_profile.dart';
 import 'package:peace_of_cake/modules/drawer/my_saved_items.dart';
 import 'package:peace_of_cake/modules/drawer/report_aproblem.dart';
 import 'package:peace_of_cake/modules/drawer/setting.dart';
+import 'package:peace_of_cake/modules/interview_screens/interviews_list_screen.dart';
 import 'package:peace_of_cake/modules/job_details_screen.dart';
+import 'package:peace_of_cake/modules/notification_screens/notification_list_screen.dart';
 
 class Home extends StatefulWidget {
 
@@ -39,7 +41,7 @@ class _HomeState extends State<Home> {
           Padding(
             padding: const EdgeInsets.all(8.0),
             child: IconButton(icon: Icon(Icons.notifications_active,color: Theme.of(context).colorScheme.secondary),
-              onPressed: (){}, //=>Navigator.push(context, MaterialPageRoute(builder: (context) => Notifications())),
+              onPressed: ()=>Navigator.push(context, MaterialPageRoute(builder: (context) => Notifications())),
             ),
           )
         ],),
@@ -298,7 +300,7 @@ class MyDrawer extends StatelessWidget {
             ListTile(title: Text('Setting'
             ),
               leading: Icon(Icons.settings),
-              //onTap: () => Navigator.push(context, MaterialPageRoute(builder: (context) => Setting())),
+              onTap: () => Navigator.push(context, MaterialPageRoute(builder: (context) => Setting())),
             ),
             ListTile(title: Text('Log out'
             ),
@@ -393,7 +395,7 @@ class _CustomToggleBtnState extends State<CustomToggleBtn> {
           GestureDetector(
             onTap: () {
               setState(() {
-                //Navigator.push(context, MaterialPageRoute(builder: (ctx)=>InterviewsList()));
+                Navigator.push(context, MaterialPageRoute(builder: (ctx)=>InterviewsList()));
 
               });
             },
