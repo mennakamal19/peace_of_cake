@@ -1,16 +1,16 @@
-# peace_of_cake
+# peace_of_cake app
 
-A new Flutter project.
+# This app is made for people with special needs to find any job they want without considering of
+anything.
+# Using Firebase for database and authentication.
+# people with impaired vision will have inaccesible to icongraphy to convey meaning or images or other visual content, to keep users informed used "ToolTip" widget to make the screen reader read the description to explain to user anything. 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# App Feauters
+before apply for any jop, the user have to complete his profile and choose the basic communication way with him. And companies must adhere to this way.
+users can save and easy apply for any job.
+users can make job alert for any field they want.
+users can report about any peaplem they have.
+Companies set different three suggest dates for interviews, so user chooses the most appropriate appointment for him.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Project GIF:
