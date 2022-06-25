@@ -7,11 +7,11 @@ anything.
 
 
 # App Feauters
-before apply for any jop, the user have to complete his profile and choose the basic communication way with him. And companies must adhere to this way.
-users can save and easy apply for any job.
-users can make job alert for any field they want.
-users can report about any peaplem they have.
-Companies set different three suggest dates for interviews, so user chooses the most appropriate appointment for him.
+  #before apply for any jop, the user have to complete his profile and choose the basic communication way with him. And companies must adhere to this way.
+  #users can save and easy apply for any job.
+  #users can make job alert for any field they want.
+  #users can report about any peaplem they have.
+  #Companies set different three suggest dates for interviews, so user chooses the most appropriate appointment for him.
 
 # Project GIF:
 
