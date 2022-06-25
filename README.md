@@ -1,7 +1,6 @@
 # peace_of_cake app
 
-# This app is made for people with special needs to find any job they want without considering of
-anything.
+# This app is made for people with special needs to find any job they want without considering of anything.
 # Using Firebase for database and authentication.
 # people with impaired vision will have inaccesible to icongraphy to convey meaning or images or other visual content, to keep users informed used "ToolTip" widget to make the screen reader read the description to explain to user anything. 
 
