@@ -19,5 +19,11 @@
 
  - Companies set different three suggest dates for interviews, so user chooses the most appropriate appointment for him.
 
+ - the interview could be online through video call using agora.
+ 
+ - when company acccept application from user, the app start chat between them and this chat support features like, video call, voicenote, voicetyping, sent attachment.
+ 
+ - the user can enble OCR feature from his profile, that will convert any image in the chat to text, so the screen reader can read it.
+
 # Project GIF:
 
