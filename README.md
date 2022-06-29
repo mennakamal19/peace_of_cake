@@ -27,6 +27,7 @@
 
 # Project GIF:
  - ![peace-part-4](https://user-images.githubusercontent.com/38336713/176334620-ede8863c-01aa-4de0-aee2-08b4ca6d9f5e.gif)
+ - ![peace-part-3](https://user-images.githubusercontent.com/38336713/176335416-f773b328-8529-4a91-89cb-40e76cdaf1b9.gif)
+ - ![peace part 1](https://user-images.githubusercontent.com/38336713/176332991-cc8b85e7-54d3-4abd-a667-2e2a5c6c15c6.gif)
+ - ![peace-part-2](https://user-images.githubusercontent.com/38336713/176335469-e4a536c7-0a1d-4955-9d74-842555441f76.gif)
 
-
-![peace part 1](https://user-images.githubusercontent.com/38336713/176332991-cc8b85e7-54d3-4abd-a667-2e2a5c6c15c6.gif)
