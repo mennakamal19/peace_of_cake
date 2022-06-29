@@ -26,5 +26,7 @@
  - the user can enble OCR feature from his profile, that will convert any image in the chat to text, so the screen reader can read it.
 
 # Project GIF:
+ - ![peace-part-4](https://user-images.githubusercontent.com/38336713/176334620-ede8863c-01aa-4de0-aee2-08b4ca6d9f5e.gif)
+
 
 ![peace part 1](https://user-images.githubusercontent.com/38336713/176332991-cc8b85e7-54d3-4abd-a667-2e2a5c6c15c6.gif)
