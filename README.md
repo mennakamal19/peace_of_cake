@@ -15,7 +15,7 @@
  
  - users can make job alert for any field they want.
  
- - users can report about any peaplem they have.
+ - users can report about any problem they have.
 
  - Companies set different three suggest dates for interviews, so user chooses the most appropriate appointment for him.
 
